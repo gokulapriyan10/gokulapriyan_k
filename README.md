@@ -1,6 +1,6 @@
 # Gokul's Portfolio
 
-Welcome to my portfolio! Here you'll find a collection of my projects, sample works, certificates, and achievements showcasing my skills and expertise in [Data Science].
+Welcome to my portfolio! Here you'll find a collection of my projects, sample works, certificates, and achievements showcasing my skills and expertise in Data Science.
 
 ## 🚀 About Me
 
@@ -26,10 +26,7 @@ I'm passionate about leveraging data-driven approaches to tackle challenges and 
 
 Explore some of my featured projects:
 
-- Revenue Optimization: Predictive Modeling in Ecommerce(link)-The project "Revenue Optimization: Predictive Modeling in Ecommerce" aimed to address two primary                                                                    objectives. First, our goal was to develop a predictive model capable of forecasting revenue in an                                                                  ecommerce environment. Second, we sought to identify the primary driver of revenue between time 
-                                                                spent on the website and time spent on the app. By achieving these objectives, we aimed to provide                                                                  actionable insights to stakeholders, enabling them to focus their efforts on the most impactful                                                                     dimension for revenue optimization.
-
-
+- Revenue Optimization: Predictive Modeling in Ecommerce(link)
 
 ## 🏅 Certificates & Achievements
 
@@ -44,7 +41,7 @@ Here are some of my notable certificates and achievements:
 Feel free to reach out to me:
 
 - **Email**: gokulapriyan10.k@gmail.com
-- **LinkedIn**: Gokulapriyan K(link)
+- **LinkedIn**: [Gokulapriyan K](link)
 
 ## 🚀 How to Get Started
 
