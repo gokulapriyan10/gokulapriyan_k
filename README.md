@@ -26,7 +26,7 @@ I'm passionate about leveraging data-driven approaches to tackle challenges and 
 
 Explore some of my featured projects:
 
-- Revenue Optimization: Predictive Modeling in Ecommerce(link)
+- [Revenue Optimization: Predictive Modeling in Ecommerce](https://github.com/gokulapriyan10/gokulapriyan_k/tree/main/PROJECTS/Revenue%20Optimization:%20Predictive%20Modeling%20in%20Ecommerce)
 
 ## 🏅 Certificates & Achievements
 
