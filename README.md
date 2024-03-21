@@ -8,7 +8,7 @@ I'm Gokulapriyan, a recent graduate with a Bachelor's degree in Technology(Infor
 
 - **Data Analysis**: Proficient in analyzing and interpreting data using statistical methods and visualization techniques.
 - **Machine Learning**: Applied machine learning algorithms to solve various problems, including predictive modeling and classification tasks.
-- **Programming Languages**: Skilled in programming languages such as Python, R, and SQL for data manipulation and analysis.
+- **Programming Languages**: Skilled in programming languages such as Python, and SQL for data manipulation and analysis.
 - **Data Visualization**: Developed visualizations to communicate insights and findings effectively to stakeholders.
 
 I'm passionate about leveraging data-driven approaches to tackle challenges and make informed decisions. I'm eager to apply my knowledge and skills to contribute to an Organization, where I can continue to learn and grow as a data scientist.
