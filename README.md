@@ -32,16 +32,16 @@ Explore some of my featured projects:
 
 Here are some of my notable certificates and achievements:
 
-- [Data Science Program By Excelr](link)
-- [The Complete Python Bootcamp By Jose Portilla](link)
-- [The Complete SQL Bootcamp by Jose Portilla](link) 
+- [Data Science Program By Excelr](https://github.com/gokulapriyan10/gokulapriyan_k/blob/main/CERTIFICATES/Data%20Science%20Program%20By%20Excelr.pdf)
+- [The Complete Python Bootcamp By Jose Portilla](https://github.com/gokulapriyan10/gokulapriyan_k/blob/main/CERTIFICATES/The%20Complete%20Python%20Bootcamp%20By%20Jose%20Portilla.pdf)
+- [The Complete SQL Bootcamp by Jose Portilla](https://github.com/gokulapriyan10/gokulapriyan_k/blob/main/CERTIFICATES/The%20Complete%20SQL%20Bootcamp%20by%20Jose%20Portilla.pdf) 
 
 ## 📫 Contact Information
 
 Feel free to reach out to me:
 
 - **Email**: gokulapriyan10.k@gmail.com
-- **LinkedIn**: [Gokulapriyan K](link)
+- **LinkedIn**: [Gokulapriyan K](https://www.linkedin.com/in/gokulapriyan-k-640b22264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## 🚀 How to Get Started
 
